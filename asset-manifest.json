@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ExpenseTracker/static/css/main.830f58a0.css",
-    "main.js": "/ExpenseTracker/static/js/main.98e89fe6.js",
+    "main.css": "/ExpenseTracker/static/css/main.1ba3c2bb.css",
+    "main.js": "/ExpenseTracker/static/js/main.6de5e7f7.js",
     "index.html": "/ExpenseTracker/index.html",
-    "main.830f58a0.css.map": "/ExpenseTracker/static/css/main.830f58a0.css.map",
-    "main.98e89fe6.js.map": "/ExpenseTracker/static/js/main.98e89fe6.js.map"
+    "main.1ba3c2bb.css.map": "/ExpenseTracker/static/css/main.1ba3c2bb.css.map",
+    "main.6de5e7f7.js.map": "/ExpenseTracker/static/js/main.6de5e7f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.830f58a0.css",
-    "static/js/main.98e89fe6.js"
+    "static/css/main.1ba3c2bb.css",
+    "static/js/main.6de5e7f7.js"
   ]
 }
