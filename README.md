@@ -1,7 +1,7 @@
 # Expense Tracker App
 
 "Track your Expenses and Master your Finances" with our expense tracker app. Analyse your expenses
-and plan accordingly to cut o extra expense.
+and plan accordingly to cut off extra expense.
 
 
 Check it out here: https://pmr745.github.io/ExpenseTracker/
