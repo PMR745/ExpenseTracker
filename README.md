@@ -4,6 +4,8 @@
 and plan accordingly to cut o extra expense.
 
 
+Check it out here: https://pmr745.github.io/ExpenseTracker/
+
 <h2>Features</h2>
 <li>Add new expense with date and amount</li>
 <li>Search expenses and get history with full anaylsis</li>
@@ -21,4 +23,3 @@ and plan accordingly to cut o extra expense.
 
 
 
-So here it is: https://pmr745.github.io/ExpenseTracker/
